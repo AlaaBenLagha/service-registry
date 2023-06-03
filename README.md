@@ -1,2 +1,2 @@
 # service-registry
-PFE Project
+Demo Spring Cloud Patterns
